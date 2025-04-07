@@ -2,8 +2,6 @@
 
 A 2D fighting game featuring two players with melee combat, projectile attacks, and shield mechanics.
 
-![Game Screenshot](screenshot.png) *Add actual screenshot later*
-
 ## Features ✨
 - **Dual Player Combat:**
   - 🟥 Player 1 (Red) vs 🟦 Player 2 (Blue)
